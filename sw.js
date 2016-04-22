@@ -1,4 +1,4 @@
-var CACHE_NAME = 'sw-v1';
+var CACHE_NAME = 'sw-v2';
 
 var urls = [
 	'./',
