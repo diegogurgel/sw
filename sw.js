@@ -1,7 +1,7 @@
 var CACHE_NAME = 'sw-v1';
 
 var urls = [
-	'/',
+	'index.html',
 	'scripts/main.js',
 	'styles/main.css'
 ]
